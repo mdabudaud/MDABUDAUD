@@ -1,31 +1,31 @@
 <h1 align="center">Hi 👋, I'm Md Abu Daud</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Web Developer and Digital Marketer</h3>
 
 ![Web Developer](https://cdn.buymeacoffee.com/uploads/cover_images/2025/05/uqQPVMMSZJuPoRdXK7HPiNUNF4RWcmg6twl4l5Qm.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=freelancerdaud&label=Profile%20views&color=0e75b6&style=flat" alt="freelancerdaud" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabudaudbd&label=Profile%20views&color=0e75b6&style=flat" alt="mdabudaudbd" /> </p>
 
-<p align="left" > <a href="https://github.com/freelancerdaud"><img src="https://github-profile-trophy.vercel.app/?username=freelancerdaud" alt="freelancerdaud" /></a> </p>
+<p align="left" > <a href="https://github.com/mdabudaud"><img src="https://github-profile-trophy.vercel.app/?username=mdabudaud" alt="mdabudaud" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/daudfreelancer" target="blank"><img src="https://img.shields.io/twitter/follow/freelancerdaud?logo=twitter&style=for-the-badge" alt="freelancerdaud" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mdabudaudbd" target="blank"><img src="https://img.shields.io/twitter/follow/freelancerdaud?logo=twitter&style=for-the-badge" alt="mdabudaud" /></a> </p>
 
 - 🔭 I’m currently working on [Rajbari IT](https://www.rajbariit.com)
 
 - 🌱 I’m currently learning **Laravel, React, Vue, Blender**
 
-- 👯 I’m looking to collaborate on [E-commerce, Web Developer, 2 Person](https://www.pangshait.com)
+- 👯 I’m looking to collaborate on [E-commerce, Web Developer, 2 Person](https://www.dealhubbd.com)
 
-- 🤝 I’m looking for help with [Digital Marketing agency in Bangladesh](https://www.pangshait.com)
+- 🤝 I’m looking for help with [Digital Marketing agency in Bangladesh](https://www.dealhubbd.com)
 
-- 👨‍💻 All of my projects are available at [https://freelancerdaud.netlify.app](https://freelancerdaud.netlify.app)
+- 👨‍💻 All of my projects are available at [https://freelancerdaud.netlify.app](https://mdabudaud.netlify.app)
 
 - 📝 I regularly write articles on [https://www.rajbariit.com](https://www.rajbariit.com)
 
 - 💬 Ask me about **Digital Marketing agency Website Developer**
 
-- 📫 How to reach me **freelancerdaud0@gmail.com**
+- 📫 How to reach me **mdabudaud01@gmail.com**
 
-- 📄 Know about my experiences [https://freelancerdaud.netlify.app](https://freelancerdaud.netlify.app)
+- 📄 Know about my experiences [https://freelancerdaud.netlify.app](https://mdabudaudbd.netlify.app)
 
 - ⚡ Fun fact **I Think I am funny man.....**
 
